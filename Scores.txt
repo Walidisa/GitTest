@@ -1,0 +1,4 @@
+dahiru sani 90\n
+sani Muhammad 30\n
+john doe 45\n
+jane doe 67\n
